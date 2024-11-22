@@ -5,6 +5,7 @@ Helpful Terraform Links:
 - [Resource: aws_security_group](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group)
 - [Resource: aws_instance](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance)
 
+
 ## Step 0: Initialize Terraform
 ```
 terraform init
